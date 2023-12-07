@@ -7,7 +7,7 @@ AI 윤리와 Responsible AI에 대해 학습하고 함께 고민하는 가짜연
 
 ## Contirbutors
 - 염성현 | [Github](https://github.com/neulvo) | [Linkedin](https://www.linkedin.com/in/neulvo/)
-- 이채원 | [Github]() | [Linkedin]()
+- 이채원 | [Github](https://github.com/ChaiwonLee) | [Linkedin]()
 - 박예은 | [Github]() | [Linkedin]()
 
 ## Contents

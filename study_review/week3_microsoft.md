@@ -30,7 +30,7 @@
 - 라벨링 어려웠다. 기준이 까다롭고 맞추기 어려운 느낌이었다.
 
 ## 주제 3 : 직업 시장에의 영향
-- 뉴스 링크 1 ‘내 직업이 없어진다?’ ********: https://www.news1.kr/articles/?5077759
+- 뉴스 링크 1 ‘내 직업이 없어진다?’ : https://www.news1.kr/articles/?5077759
 - 뉴스 링크 2 ‘야놀자 희망 퇴직’ : https://www.donga.com/news/Economy/article/all/20230918/121235039/1
 - 관련 링크 ‘CJ, AI 카피라이터’ : https://www.cj.net/cj_now/view.asp?bs_seq=15329
 - 야놀자가 최근 희망 퇴직을 단행했다. 그 배경에 생성형 AI가 있는 것으로 알고 있다. 관광 산업에 영향이 있을 것으로 예상됐다고 한다.
