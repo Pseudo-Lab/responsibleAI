@@ -28,23 +28,16 @@ AI 윤리와 Responsible AI에 대해 학습하고 함께 고민하는 가짜연
 | 10 | 2023.11.23 | [Safe, Secure, and Trustworthy Artificial Intelligence](./study_review/week10_whitehouse.md)| 
 
 ## Links
-스터디 활동 중 참고한 Responsible AI 관련 링크들입니다.
-
-### AI Laws
-- [General Data Protection Regulation (GDPR) 원문](https://gdpr-info.eu)
-- [GDPR-KISA 자료](https://gdpr.kisa.or.kr/gdpr/static/whatIsGdpr.do)
-- [Artificial Intelligence ACT 원문](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206)
-- [AI ACT-SAPI 자료](http://sapi.co.kr/wp-content/uploads/2021/09/유럽연합-인공지능법안의-개요-및-대응방안_0923_2.pdf)
-- [[법률 신문] EU AI 법안의 EU 의회 수정안 주요내용](https://www.lawtimes.co.kr/news/188029)
+스터디 활동 중 참고한 Responsible AI 관련 링크들입니다. 스터디 주요 내용의 링크는 위의 Contents를 확인해주시기 바랍니다.
 
 ### Movements
 
 #### 국내
 - [AI 윤리 레터](https://ai-ethics.stibee.com/)
-- [KISO, 한국인터넷 자율정책기구](https://www.kiso.or.kr)
+- [SNU AI Policy Initiative](https://sapi.co.kr)
 - [디지털 공론장](http://www.beingdigital.kr/front/main.do)
 - [정보인권](https://act.jinbo.net/wp/)
-- [SNU AI Policy Initiative](https://sapi.co.kr)
+- [KISO, 한국인터넷 자율정책기구](https://www.kiso.or.kr)
 
 #### 해외
 - [Frontier Model Forum](https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/?utm_source=pytorchkr)
