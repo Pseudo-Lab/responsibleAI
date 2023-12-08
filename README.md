@@ -28,7 +28,7 @@ AI 윤리와 Responsible AI에 대해 학습하고 함께 고민하는 가짜연
 | 10 | 2023.11.23 | [Safe, Secure, and Trustworthy Artificial Intelligence](./study_review/week10_whitehouse.md)| 
 
 ## Links
-스터디 활동 중 참고하거나 찾은 Responsible AI 관련 링크 모음입니다.
+스터디 활동 중 참고한 Responsible AI 관련 링크들입니다.
 
 ### AI Laws
 - [General Data Protection Regulation (GDPR) 원문](https://gdpr-info.eu)
@@ -40,6 +40,7 @@ AI 윤리와 Responsible AI에 대해 학습하고 함께 고민하는 가짜연
 ### Movements
 
 #### 국내
+- [AI 윤리 레터](https://ai-ethics.stibee.com/)
 - [KISO, 한국인터넷 자율정책기구](https://www.kiso.or.kr)
 - [디지털 공론장](http://www.beingdigital.kr/front/main.do)
 - [정보인권](https://act.jinbo.net/wp/)
@@ -51,18 +52,15 @@ AI 윤리와 Responsible AI에 대해 학습하고 함께 고민하는 가짜연
 - [AI.gov](https://ai.gov/)
 
 ### Webinars
-
 - [[팀네이버 컨퍼런스 단 23] 사람을 위한 AI 윤리와 정책](https://youtu.be/hVkjWFrRLwg?si=OPWyZ0soYDoHuInf)
 - [[SEF2023] 교실에서의 AI, 바르게 교육하려면? ㅣ 김현철 (고려대학교 컴퓨터학과 교수)](https://youtu.be/WLSoLPUsyw8?si=RtSgwIu8Dd14pGmR)
 - [[SEF2023] AI 윤리 교육 교재, 직접 만들고 교육한 후기 ㅣ 최정원 (상인천중학교 정보 교사)](https://youtu.be/6B0uXqqXgMc?si=wkzWKov_Jy0rAZSd)
 
 ### Tools & Interests
-
 - [네이버 AI 윤리 데이터셋, 데이터 라벨 맞춰보기](https://naver-llm-safety.pages.dev/square)
 - [신뢰받는 제품 개발 프로세스를 만드는 책임 있는 AI (RESPONSIBLE AI)](https://m.post.naver.com/viewer/postView.naver?volumeNo=36448854&memberNo=36733075&searchKeyword=AI%20%EB%B8%8C%EB%9E%9C%EB%93%9C&searchRank=191)
 
 ### News & Updates
-
 - [디지털 권리장전 발표, 대한민국의 새로운 디지털 규범질서 제시](https://eiec.kdi.re.kr/policy/materialView.do?num=243174)
 - [[보도참고] 디지털플랫폼정부 추진 본격 시동(초거대 인공지능(AI) 경쟁력 강화 방안 포함)](https://www.msit.go.kr/bbs/view.do?sCode=user&bbsSeqNo=94&nttSeqNo=3182943)
 ---
